@@ -1,0 +1,4 @@
+#Fri Apr 11 00:25:42 FJT 2025
+base.0=C\:\\Users\\ryanr\\OneDrive\\Desktop\\cs415_project\\build\\app\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+path.0=0/classes.dex
+renamed.0=classes.dex
