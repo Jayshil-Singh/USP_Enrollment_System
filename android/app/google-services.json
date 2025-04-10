@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "368665614041",
+    "firebase_url": "https://usp-enrollment-system-da7f1-default-rtdb.firebaseio.com",
+    "project_id": "usp-enrollment-system-da7f1",
+    "storage_bucket": "usp-enrollment-system-da7f1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368665614041:android:cbfef9d4542c9e8eb790c8",
+        "android_client_info": {
+          "package_name": "com.example.cs415_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsBKxAyIHyldD2assDaNQFemu8colKsGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

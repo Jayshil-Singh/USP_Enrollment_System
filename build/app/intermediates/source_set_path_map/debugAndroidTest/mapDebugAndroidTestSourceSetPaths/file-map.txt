@@ -1,0 +1,4 @@
+com.example.cs415_project.test.app-androidTest-0 C:\Users\ryanr\OneDrive\Desktop\cs415_project\build\app\generated\res\resValues\androidTest\debug
+com.example.cs415_project.test.app-mergeDebugAndroidTestResources-1 C:\Users\ryanr\OneDrive\Desktop\cs415_project\build\app\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.cs415_project.test.app-mergeDebugAndroidTestResources-2 C:\Users\ryanr\OneDrive\Desktop\cs415_project\build\app\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.cs415_project.test.app-debugAndroidTest-3 C:\Users\ryanr\OneDrive\Desktop\cs415_project\build\app\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
